@@ -16,7 +16,7 @@ class _GetStratedPageState extends State<GetStratedPage> {
         crossAxisAlignment: CrossAxisAlignment.center,
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          SizedBox(
+         const  SizedBox(
             height: 100,
           ),
           Image.asset(
